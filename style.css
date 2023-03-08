@@ -368,6 +368,13 @@ label{
     width: 240px;
     font-size: 14px;
 }
+.socials_item{
+    text-decoration: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+}
 .socials{
     width: 25px;
     height: 25px;
@@ -437,12 +444,6 @@ label{
 }
 .socials4:hover{
     background-color: #f89513;
-}
-.socials_item{
-    text-decoration: none;
-    display: flex;
-    margin: 0;
-    padding-top: 10px;
 }
 .socials_text{
     color: #f5f5f5;
